@@ -1,0 +1,117 @@
+body {
+    background-color: rgb(194, 153, 199);
+    }
+    header {
+        font-size:xxx-large;
+        color: rgb(43, 0, 83);
+        font-family:cursive;
+        text-align: center;
+    }
+    h2 {
+        font-size:large;
+    font-family: monospace;
+    color: rgb(61, 0, 118);
+    text-align: center;
+    }
+    h3 {
+    font-size: large;
+    font-family: monospace;
+    color: rgb(53, 0, 103);
+    text-align: center;
+    margin: 15%
+    }
+    ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    }
+    img{
+        display:block;
+        margin:auto;
+    }
+    h4{
+        font-family: fantasy;
+        font-size: xx-large;
+        color: rgb(42, 0, 65);
+        text-align: center;
+        margin: 2%
+       
+        
+    }
+    h5{
+        font-family: monospace;
+        font-size: larger;
+        color: rgb(42, 0, 65);
+        text-align: center;
+    
+    }
+    h6 {
+        font-family: fantasy;
+        font-size: xx-large;
+        color: rgb(142, 73, 178);
+        text-align: center;
+        margin: 2%;
+        background-color: rgb(70, 0, 78);
+    }
+  img{
+    display:block;
+    margin:auto;
+  }
+  h7{
+    font-family: monospace;
+    font-size: larger;
+    color: rgb(42, 0, 65);
+    text-align: center;
+  }
+  h8 {
+    font-family: fantasy;
+    font-size: xx-large;
+    color: azure;
+    text-align: center;
+    margin: 8%;
+    background-color: rgb(70, 0, 78);
+  }
+  h9 {
+    font-family: fantasy;
+    font-size: xx-large;
+    color: rgb(232, 190, 255);
+    text-align: center;
+    margin: 8px;
+
+    background-color: rgb(70, 0, 78);
+  }
+  h11{
+    font-family: monospace;
+    font-size: larger;
+    color: rgb(61, 0, 94);
+    text-align: center;
+  }
+  h10 {
+    font-family: fantasy;
+    font-size: xx-large;
+    color: azure;
+    text-align: center;
+    margin: 8px;
+    background-color: rgb(70, 0, 78);
+  }
+  h12{
+    text-align: center;
+  }
+  h14{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: azure;
+    margin: 8px;
+    background-color: rgb(70, 0, 78);
+  }
+  h13{
+    text-align: center;
+  }
+  p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: rgb(58, 0, 86);
+    margin: 8px;
+
+  }
